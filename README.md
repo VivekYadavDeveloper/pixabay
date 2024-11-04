@@ -33,8 +33,8 @@ lib/
 │   │   ├── Models/         # Contains data models for parsing JSON
 │   │   └── Repo/           # Contains repository for API calls
 │   └── Views/              # Contains UI components
-├── main.dart                # Entry point of the application
-└── app.routes.dart          # Contains routing configurations
+├── main.dart               # Entry point of the application
+└── app.routes.dart         # Contains routing configurations
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)

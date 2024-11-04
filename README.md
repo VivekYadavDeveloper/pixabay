@@ -14,7 +14,7 @@ The images are displayed in a responsive square grid format, with the ability to
 
 **Infinite Scrolling**: Automatically loads more images as the user scrolls down the gallery.
 
-# **Technologies Used**
+# **Technologies Used With Pagination**
 
 **Flutter**: The primary framework used to build the web application.
 
